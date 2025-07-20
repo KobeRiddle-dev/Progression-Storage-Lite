@@ -14,7 +14,7 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/3033901359</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-	<description>Integrates storage mods into Vanilla progression.</description>
+	<description>Integrates storage mods into Vanilla progression.\n\nNow made lite by Kobe Riddle, with no prop dependencies.</description>
 	<loadAfter>
 		<li>Ludeon.Rimworld</li>
 		<li>Ludeon.Rimworld.Royalty</li>
