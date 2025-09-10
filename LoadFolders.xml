@@ -2,31 +2,31 @@
   <v1.5>
     <li>/</li>
     <li>1.5</li>
-    <li IfModActive="dankpyon.medieval.overhaul">1.5/Mods and Shit/Medieval Overhaul</li>
-    <li IfModActive="vanillaexpanded.recycling">1.5/Mods and Shit/VE Recycling</li>
-    <li IfModActive="VanillaExpanded.VFECore">1.5/Mods and Shit/VE Furniture</li>
-    <li IfModActive="VanillaExpanded.VFESpacer">1.5/Mods and Shit/VFE Spacer</li>
-    <li IfModActive="Adamas.VendingMachines">1.5/Mods and Shit/Vending Machines</li>
-    <li IfModActive="silkcircuit.passitthroughthewindow">1.5/Mods and Shit/Pass It Through</li>
-    <li IfModActive="sarg.alphabooks">1.5/Mods and Shit/Alpha Books</li>
-    <li IfModActive="adaptive.primitivestorage">1.5/Mods and Shit/Adaptive Primitive Storage</li>
-    <li IfModActive="sbz.neatstorage">1.5/Mods and Shit/Neat Storage</li>
-    <li IfModActive="OskarPotocki.VFE.Mechanoid">1.5/Mods and Shit/VFE Mechanoids</li>
-    <li IfModActive="oskarpotocki.vfe.medieval2">1.5/Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="Adaptive.PrimitiveStorage">1.5/Mod Patches/Adaptive Primitive Storage</li>
+    <li IfModActive="Sarg.AlphaBooks">1.5/Mod Patches/Alpha Books</li>
+    <li IfModActive="DankPyon.Medieval.Overhaul">1.5/Mod Patches/Medieval Overhaul</li>
+    <li IfModActive="sbz.NeatStorage">1.5/Mod Patches/Neat Storage</li>
+    <li IfModActive="SilkCircuit.PassItThroughTheWindow">1.5/Mod Patches/Pass It Through</li>
+    <li IfModActive="VanillaExpanded.VfeCore">1.5/Mod Patches/VE Furniture</li>
+    <li IfModActive="VanillaExpanded.Recycling">1.5/Mod Patches/VE Recycling</li>
+    <li IfModActive="Adamas.VendingMachines">1.5/Mod Patches/Vending Machines</li>
+    <li IfModActive="OskarPotocki.Vfe.Mechanoid">1.5/Mod Patches/VFE Mechanoids</li>
+    <li IfModActive="OskarPotocki.Vfe.Medieval2">1.5/Mod Patches/VFE Medieval 2</li>
+    <li IfModActive="VanillaExpanded.VfeSpacer">1.5/Mod Patches/VFE Spacer</li>
   </v1.5>
   <v1.6>
     <li>/</li>
     <li>1.6</li>
-    <li IfModActive="dankpyon.medieval.overhaul">1.6/Mods and Shit/Medieval Overhaul</li>
-    <li IfModActive="vanillaexpanded.recycling">1.6/Mods and Shit/VE Recycling</li>
-    <li IfModActive="VanillaExpanded.VFECore">1.6/Mods and Shit/VE Furniture</li>
-    <li IfModActive="VanillaExpanded.VFESpacer">1.6/Mods and Shit/VFE Spacer</li>
-    <li IfModActive="Adamas.VendingMachines">1.6/Mods and Shit/Vending Machines</li>
-    <li IfModActive="silkcircuit.passitthroughthewindow">1.6/Mods and Shit/Pass It Through</li>
-    <li IfModActive="sarg.alphabooks">1.6/Mods and Shit/Alpha Books</li>
-    <li IfModActive="adaptive.primitivestorage">1.6/Mods and Shit/Adaptive Primitive Storage</li>
-    <li IfModActive="sbz.neatstorage">1.6/Mods and Shit/Neat Storage</li>
-    <li IfModActive="OskarPotocki.VFE.Mechanoid">1.6/Mods and Shit/VFE Mechanoids</li>
-    <li IfModActive="oskarpotocki.vfe.medieval2">1.6/Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="Adaptive.PrimitiveStorage">1.6/Mod Patches/Adaptive Primitive Storage</li>
+    <li IfModActive="Sarg.AlphaBooks">1.6/Mod Patches/Alpha Books</li>
+    <li IfModActive="DankPyon.Medieval.Overhaul">1.6/Mod Patches/Medieval Overhaul</li>
+    <li IfModActive="sbz.NeatStorage">1.6/Mod Patches/Neat Storage</li>
+    <li IfModActive="SilkCircuit.PassItThroughTheWindow">1.6/Mod Patches/Pass It Through</li>
+    <li IfModActive="VanillaExpanded.VfeCore">1.6/Mod Patches/VE Furniture</li>
+    <li IfModActive="VanillaExpanded.Recycling">1.6/Mod Patches/VE Recycling</li>
+    <li IfModActive="Adamas.VendingMachines">1.6/Mod Patches/Vending Machines</li>
+    <li IfModActive="OskarPotocki.Vfe.Mechanoid">1.6/Mod Patches/VFE Mechanoids</li>
+    <li IfModActive="OskarPotocki.Vfe.Medieval2">1.6/Mod Patches/VFE Medieval 2</li>
+    <li IfModActive="VanillaExpanded.VfeSpacer">1.6/Mod Patches/VFE Spacer</li>
   </v1.6>
 </loadFolders>
